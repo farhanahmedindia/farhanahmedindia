@@ -1,12 +1,90 @@
-# 👋 Hi, I'm Farhan Ahmed
+<!-- HEADER -->
 
-### Security Engineer | SOC • Detection Engineering • AppSec • DevSecOps • Security Automation
+
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2200&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Farhan+Ahmed"
+    alt="Farhan Ahmed"
+  />
+</p>
+
+<p align="center">
+  <strong>Security Engineer · SOC · AppSec · DevSecOps · Security Automation · Detection Engineering</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/farhanahmedindia">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/farhanahmedindia/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@Alfabitsec">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/farhan.ahmed647/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=farhanahmedindia&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square"
+    alt="Profile Views"
+  />
+</p>
 
 I build and secure systems across **Security Operations, Application Security, Cloud Security, DevSecOps, and Security Automation**.
 
 My work focuses on turning security requirements into practical engineering solutions — from **SIEM deployments and detection engineering** to **VAPT, security pipelines, incident automation, and AI-assisted SOC tooling**.
 
 > **Build. Break. Detect. Automate. Secure.**
+
+---
+
+## <img src="https://cdn.simpleicons.org/github/FFFFFF" width="22" height="22"> GitHub Activity
+
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    height="170"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    height="170"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=farhanahmedindia&theme=transparent&hide_border=true"
+    height="170"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+### Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/farhanahmedindia/farhanahmedindia/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/farhanahmedindia/farhanahmedindia/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/farhanahmedindia/farhanahmedindia/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</p>
 
 ---
 
@@ -206,6 +284,10 @@ Lightweight, offline-first, behavior-based web traffic defender for Apache/Nginx
 
 ## Technical Skills
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,git,github,azure,aws,docker,linux,windows,githubactions,sqlite,postgres,mysql&theme=dark&perline=20" />
+</p>
+
 ### Security
 
 ![Security](https://skillicons.dev/icons?i=linux,windows)
@@ -276,57 +358,8 @@ It should be integrated throughout the lifecycle:
 * Security Automation
 * Security Engineering
 
----
-
-## <img src="https://cdn.simpleicons.org/github/FFFFFF" width="22" height="22"> GitHub Activity
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    height="170"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=farhanahmedindia&theme=transparent&hide_border=true"
-    height="170"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
-### Contribution Activity
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/farhanahmedindia/farhanahmedindia/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/farhanahmedindia/farhanahmedindia/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/farhanahmedindia/farhanahmedindia/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="100%"
-    />
-  </picture>
-</p>
-
-
-
----
 
 ## Find Me Online
-
 ### Professional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhan%20Ahmed-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/farhanahmedindia/)
