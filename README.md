@@ -31,7 +31,7 @@ Currently, I'm especially interested in **AI-assisted cybersecurity systems that
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 ### 🛡️ Security Operations
 
@@ -84,7 +84,7 @@ Tools and technologies include:
 
 ---
 
-# 🧠 Featured Project — SOCRATS
+## Featured Project — SOCRATS
 
 ## Security Operations, Correlation, Reasoning & Threat Analysis System
 
@@ -152,7 +152,7 @@ SOCRATS uses **local LLM inference** to assist analysts with security analysis w
 
 ---
 
-# 🔥 Selected Projects
+## Selected Projects
 
 ### 🛡️ SOCRATS
 
@@ -204,7 +204,7 @@ Lightweight, offline-first, behavior-based web traffic defender for Apache/Nginx
 
 ---
 
-# 🧰 Technical Skills
+## Technical Skills
 
 ### Security
 
@@ -234,7 +234,7 @@ Lightweight, offline-first, behavior-based web traffic defender for Apache/Nginx
 
 ---
 
-# 🏗️ Security Engineering Philosophy
+## Security Engineering Philosophy
 
 ```text
                     ┌────────────────────┐
@@ -265,7 +265,7 @@ It should be integrated throughout the lifecycle:
 
 ---
 
-# 📚 Currently Exploring
+## Currently Exploring
 
 * 🤖 AI for Security Operations
 * 🧠 LLMs & RAG for cybersecurity
@@ -325,7 +325,7 @@ It should be integrated throughout the lifecycle:
 
 ---
 
-# 🌐 Find Me Online
+## Find Me Online
 
 ### 💼 Professional
 
@@ -345,7 +345,7 @@ It should be integrated throughout the lifecycle:
 
 ---
 
-# 🌍 Projects & Work
+## Projects & Work
 
 ### 🔐 RiskBrief
 
@@ -359,7 +359,7 @@ AI-assisted Security Operations platform focused on helping SOC analysts investi
 
 ---
 
-# ✍️ I Write About
+## I Write About
 
 I regularly share content around:
 
@@ -375,7 +375,7 @@ I regularly share content around:
 
 ---
 
-# 🤝 Let's Connect
+## Let's Connect
 
 I'm interested in connecting with:
 
