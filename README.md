@@ -33,7 +33,7 @@ Currently, I'm especially interested in **AI-assisted cybersecurity systems that
 
 ## What I Do
 
-### 🛡️ Security Operations
+### Security Operations
 
 * SIEM deployment and administration
 * Detection engineering
@@ -44,7 +44,7 @@ Currently, I'm especially interested in **AI-assisted cybersecurity systems that
 * Security monitoring and automation
 * SOC dashboards and reporting
 
-### 🔐 Application Security
+### Application Security
 
 * Web Application VAPT
 * OWASP Top 10
@@ -54,7 +54,7 @@ Currently, I'm especially interested in **AI-assisted cybersecurity systems that
 * Vulnerability research
 * Secure development practices
 
-### ⚙️ DevSecOps
+### DevSecOps
 
 I integrate security directly into development and deployment pipelines:
 
@@ -72,7 +72,7 @@ Tools and technologies include:
 * Docker
 * DefectDojo
 
-### ☁️ Cloud & Infrastructure Security
+### Cloud & Infrastructure Security
 
 * Microsoft Azure
 * AWS security services
@@ -129,20 +129,20 @@ Tools and technologies include:
                     └─────────────────────┘
 ```
 
-### Key capabilities
+### Key Capabilities
 
-* 🚨 Alert aggregation and triage
-* 🤖 Local AI-assisted alert analysis
-* 🔎 IOC extraction and enrichment
-* 🧩 Case-centric investigations
-* 📝 Analyst notes and collaboration
-* 👥 Shift assignment and handovers
-* 📧 Investigation and client communication workflows
-* 🛡️ NSG-based response actions
-* 📊 SOC metrics and reporting
-* 🔄 Security automation
-* 💬 SOC analyst chatbot
-* 🔐 Role-based access control
+- Alert aggregation & triage
+- Local AI-assisted alert analysis
+- IOC extraction & enrichment
+- Case-centric investigations
+- Analyst notes & collaboration
+- Shift assignment & handovers
+- Investigation workflows
+- NSG-based response actions
+- SOC metrics & reporting
+- Security automation
+- SOC analyst chatbot
+- Role-based access control
 
 ### AI Architecture
 
@@ -154,7 +154,7 @@ SOCRATS uses **local LLM inference** to assist analysts with security analysis w
 
 ## Selected Projects
 
-### 🛡️ SOCRATS
+### SOCRATS
 
 **AI-assisted Security Operations Platform**
 
@@ -164,7 +164,7 @@ Security operations platform combining Wazuh telemetry, alert triage, threat int
 
 ---
 
-### 🔎 SearchOL
+### SearchOL
 
 Security-focused search and reconnaissance tooling for information gathering and OSINT workflows.
 
@@ -172,7 +172,7 @@ Security-focused search and reconnaissance tooling for information gathering and
 
 ---
 
-### 🕵️ SearchOL Footprinting Tool
+### SearchOL Footprinting Tool
 
 A reconnaissance and footprinting tool that helps collect and organize discovered resources.
 
@@ -180,7 +180,7 @@ A reconnaissance and footprinting tool that helps collect and organize discovere
 
 ---
 
-### 🧬 DFAT / FileCarver
+### DFAT / FileCarver
 
 GUI-based digital forensics tool designed for file carving and recovery from disk data.
 
@@ -188,7 +188,7 @@ GUI-based digital forensics tool designed for file carving and recovery from dis
 
 ---
 
-### 🔐 FarhanCryptool
+### FarhanCryptool
 
 Cryptography-focused security tool built for experimenting with cryptographic concepts and implementations.
 
@@ -196,7 +196,7 @@ Cryptography-focused security tool built for experimenting with cryptographic co
 
 ---
 
-### 🚦 LogSentinel
+### LogSentinel
 
 Lightweight, offline-first, behavior-based web traffic defender for Apache/Nginx environments.
 
@@ -267,14 +267,14 @@ It should be integrated throughout the lifecycle:
 
 ## Currently Exploring
 
-* 🤖 AI for Security Operations
-* 🧠 LLMs & RAG for cybersecurity
-* 🔍 Detection Engineering
-* 🛡️ Threat Detection & Response
-* ☁️ Cloud Security
-* 🔐 Application Security
-* ⚙️ Security Automation
-* 🏗️ Security Engineering
+* AI for Security Operations
+* LLMs & RAG for cybersecurity
+* Detection Engineering
+* Threat Detection & Response
+* Cloud Security
+* Application Security
+* Security Automation
+* Security Engineering
 
 ---
 
@@ -327,19 +327,19 @@ It should be integrated throughout the lifecycle:
 
 ## Find Me Online
 
-### 💼 Professional
+### Professional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhan%20Ahmed-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/farhanahmedindia/)
 
-### 💻 GitHub
+### GitHub
 
 [![GitHub](https://img.shields.io/badge/GitHub-farhanahmedindia-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/farhanahmedindia)
 
-### ▶️ YouTube
+### YouTube
 
 [![YouTube](https://img.shields.io/badge/YouTube-Alfabit-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@Alfabitsec)
 
-### 📸 Instagram
+### Instagram
 
 [![Instagram](https://img.shields.io/badge/Instagram-Farhan%20Ahmed-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/farhan.ahmed647/)
 
@@ -347,13 +347,13 @@ It should be integrated throughout the lifecycle:
 
 ## Projects & Work
 
-### 🔐 RiskBrief
+### RiskBrief
 
 Cybersecurity-focused project exploring security information, research and threat awareness.
 
-🌐 **riskbrief.io**
+**riskbrief.io**
 
-### 🦉 SOCRATS
+### SOCRATS
 
 AI-assisted Security Operations platform focused on helping SOC analysts investigate and respond to security events.
 
@@ -395,7 +395,7 @@ If you're building something interesting in cybersecurity, feel free to connect.
 
 <p align="center">
 
-### 🔐 Secure by Design. Detect by Default. Automate Everything Possible.
+### Secure by Design. Detect by Default. Automate Everything Possible.
 
 **— Farhan Ahmed**
 
