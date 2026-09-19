@@ -278,15 +278,27 @@ It should be integrated throughout the lifecycle:
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/ffffff" width="22" /> GitHub Activity
+## <img src="https://cdn.simpleicons.org/github/FFFFFF" width="22" height="22"> GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhanahmedindia&show_icons=true&theme=transparent&hide_border=true" height="170" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanahmedindia&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+  <img
+    src="./profile/stats.svg"
+    height="170"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=farhanahmedindia&theme=transparent&hide_border=true" height="170" alt="GitHub Contribution Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=farhanahmedindia&theme=transparent&hide_border=true"
+    height="170"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
