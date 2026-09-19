@@ -10,20 +10,20 @@ My work focuses on turning security requirements into practical engineering solu
 
 ---
 
-## 🧑‍💻 About Me
+## <img src="https://cdn.simpleicons.org/aboutdotme/FFFFFF" width="20"> About Me
 
 I'm a Security Engineer with hands-on experience across defensive security and application security.
 
 My interests sit at the intersection of:
 
-* 🛡️ Security Operations & Detection Engineering
-* 🔍 Vulnerability Assessment & Penetration Testing
-* ☁️ Cloud & Infrastructure Security
-* 🔐 Application Security
-* ⚙️ DevSecOps & CI/CD Security
-* 🤖 AI-assisted Security Operations
-* 🔄 Security Automation & Incident Response
-* 📊 SIEM, Threat Detection & Security Monitoring
+- Security Operations & Detection Engineering
+- Vulnerability Assessment & Penetration Testing
+- Cloud & Infrastructure Security
+- Application Security
+- DevSecOps & CI/CD Security
+- AI-assisted Security Operations
+- Security Automation & Incident Response
+- SIEM, Threat Detection & Security Monitoring
 
 I enjoy building security tools, automating repetitive SOC workflows, researching vulnerabilities, and turning security problems into engineering solutions.
 
